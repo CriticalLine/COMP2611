@@ -1,12 +1,12 @@
-# <mark>COMP2211</mark> <mark>Exploring Artificial Intelligence</mark>
+# COMP2611 Computer Organization
 
-HKUST <mark>COMP2211</mark> - <mark>Fall 2025</mark>
+HKUST COMP2611 - Spring 2026
 
-Instructor: <mark>[XIAO Huiru](https://huiruxiao.github.io/)</mark>
+Instructor: [Dr. LAM Ngok](https://www.cse.ust.hk/~lamngok/)
 
 ## About
 
-This repository contains course materials and resources for <mark>COMP2211 (Exploring Artificial Intelligence)</mark> at HKUST.
+This repository contains course materials and resources for COMP2611 (Computer Organization) at HKUST.
 
 It is an **unofficial** backup of the course.
 
@@ -14,28 +14,29 @@ It is an **unofficial** backup of the course.
 
 - Lecture notes
 - Assignments
-- <mark>Lab exercises</mark>
-- Past exam papers
-- Homepage of the course: <mark>[COMP2211 Course Page](https://course.cse.ust.hk/comp2211/)</mark>
+- Lab Materials
+<!-- - Past exam papers -->
+- Homepage of the course: [COMP2611 Course Page](https://course.cse.ust.hk/comp2611/)
 
-## Lecture Videos
+<!-- ## Lecture Videos -->
 
-<mark>[Lecture Recordings on YouTube](https://www.youtube.com/playlist?list=PLShSJqjCpwn8JzMlubymWv7WpevXSrJ8u)</mark>
+<!-- [Lecture Recordings on YouTube](https://www.youtube.com/playlist?list=PLShSJqjCpwn8JzMlubymWv7WpevXSrJ8u) -->
 
 ## Course Information
 
 - **Institution**: Hong Kong University of Science and Technology
-- **Semester**: <mark>Fall 2025</mark>
+- **Semester**: Spring 2026
+- **Course Code**: COMP2611
+- **Course Title**: Computer Organization
+- **Instructor**: Dr. LAM Ngok
 
 ## Getting Started
 
 Clone this repository to access course materials:
 
-<mark>
 ```bash
-git clone https://github.com/CriticalLine/COMP2211.git
+git clone https://github.com/CriticalLine/COMP2611.git
 ```
-</mark>
 
 Or download the zip.
 
